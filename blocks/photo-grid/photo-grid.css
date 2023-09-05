@@ -1,0 +1,9 @@
+.photo-grid {
+    width: 1184px;
+    padding-top: 92px;
+    margin-left: 48px;
+    margin-right: 48px;
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+}

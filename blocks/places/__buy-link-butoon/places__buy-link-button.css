@@ -1,0 +1,14 @@
+.places__buy-link-button {
+    border-radius: 4px;
+    background: #0278FE;
+    color: #FFF;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    display: inline-flex;
+    padding: 13px 20px;
+    align-items: flex-start;
+    gap: 10px;
+    text-decoration: none;
+}

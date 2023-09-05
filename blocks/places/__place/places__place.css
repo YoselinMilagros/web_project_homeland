@@ -1,0 +1,9 @@
+.places__place { 
+    width: 984px;
+    margin: 0 auto;
+    margin-left: 3px;
+    display: grid;
+    grid-template-columns: 460px 1fr;
+    gap: 48px 40px;
+    padding-bottom: 80px;
+}

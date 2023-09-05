@@ -1,0 +1,6 @@
+.places__column {
+    display: flex;
+    flex-direction: column;
+    gap: 48px;
+    align-items: flex-start;
+}
