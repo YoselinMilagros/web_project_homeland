@@ -12,3 +12,6 @@
     gap: 10px;
     text-decoration: none;
 }
+.places__buy-link-button:hover{
+    background: #0063D2;
+}

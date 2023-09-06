@@ -12,5 +12,9 @@
     align-items: flex-start;
     gap: 10px;
     text-decoration: none;
-    margin-bottom: 243px;
+    z-index: 1;
+}
+
+.cover__buy-link-butoon:hover{
+    background: #0063D2;
 }
