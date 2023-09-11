@@ -1,0 +1,10 @@
+.places__buy-link-button_hide_tablet {
+    display: none;
+}
+
+/* Media query de mobiles */
+@media screen and (max-width: 767px) {
+    .places__buy-link-button_hide_tablet {
+        display: revert;
+    }
+}

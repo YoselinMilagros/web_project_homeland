@@ -1,6 +1,5 @@
 .cover__subtitle {
     margin: 0;
-    width: 280px;
     color: #FFF;
     text-align: center;
     font-size: 18px;
@@ -9,3 +8,11 @@
     line-height: 1.2; /* 122.222% */
     z-index: 1;
 }
+
+/* Media query de mobiles */
+@media screen and (max-width: 767px) {
+    .cover__subtitle  {
+        font-size: 14px;
+        line-height: 1.142;
+    }
+} 

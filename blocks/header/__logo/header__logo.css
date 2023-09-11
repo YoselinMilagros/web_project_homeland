@@ -3,3 +3,12 @@
     height: 70px;
     padding-top: 34px;
 }
+
+/* Media query de mobiles */
+@media screen and (max-width: 767px) {
+    .header__logo  {
+        width: auto;
+        height: 51.852px;
+        padding-top: 20px;
+    }
+} 

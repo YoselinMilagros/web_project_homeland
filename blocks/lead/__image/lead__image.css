@@ -4,3 +4,19 @@
     height: 615px;
     margin: 0;
 }
+
+/* Media query de tablets */
+@media screen and (max-width: 1279px) {
+    .lead__image  {
+        min-width: 768px;
+        width: 100%;
+        height: auto;
+    }
+}
+
+/* Media query de mobiles */
+@media screen and (max-width: 767px) {
+    .lead__image  {
+        min-width: 320px;
+    }
+} 
