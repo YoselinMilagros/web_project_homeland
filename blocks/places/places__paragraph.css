@@ -14,10 +14,3 @@
         line-height: 1.63;
     }
 }
-
-/* Media query de mobiles */
-@media screen and (max-width: 767px) {
-    .places__paragraph  {
-
-    }
-} 
