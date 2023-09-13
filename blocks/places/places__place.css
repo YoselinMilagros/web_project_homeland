@@ -24,10 +24,8 @@
 /* Media query de mobiles */
 @media screen and (max-width: 767px) {
     .places__place  {
-        margin-left: 16px;
-        margin-right: 16px;
         padding-left: 0px;
-        padding-bottom: 16px;
+        padding-bottom: 32px;
         grid-template-columns: 1fr;
         gap: 30px;
     }

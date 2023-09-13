@@ -20,7 +20,7 @@
 /* Media query de tablets */
 @media screen and (max-width: 1279px) {
     .places__buy-link-button  {
-        margin-right: -25px;
+        padding: 13px 12px;
     }
 }
 
@@ -29,6 +29,5 @@
     .places__buy-link-button  {
         font-size: 14px;
         padding: 16px 22px 15px 21px;
-        margin-right: 0;
     }
 } 

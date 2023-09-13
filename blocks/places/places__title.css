@@ -18,7 +18,9 @@
 /* Media query de mobiles */
 @media screen and (max-width: 767px) {
     .places__title  {
-       font-size: 32px;
-       line-height: 1.093;
+        font-size: 32px;
+        line-height: 1.093;
+        margin-left: 16px;
+        margin-right: 16px;
     }
-} 
+}
