@@ -1,6 +1,0 @@
-/* Media query de mobiles */
-@media screen and (max-width: 767px) {
-    .places__buy-link-button_hide_mobile {
-        display: none;
-    }
-} 
