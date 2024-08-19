@@ -1,8 +1,7 @@
 .places {
     max-width: 987px;
     padding-top: 92px;
-    margin: 0;
-    margin-left: 145px;
+    margin-left: auto;
     margin-right: auto;
 }
 /* Media query de tablets */
@@ -150,8 +149,8 @@
 /* Media query de mobiles */
 @media screen and (max-width: 767px) {
   .places__image  {
-      width: 320px;
-      height: 320px;
+      width: 100%;
+      height: auto;
   }
 }
 

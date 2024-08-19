@@ -1,8 +1,7 @@
 .intro {
     width: 1017px;
-    margin: 0;
-    margin-left: 148px;
-    margin-right: 115px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* Media query de tablets */
