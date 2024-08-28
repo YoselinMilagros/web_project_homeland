@@ -78,6 +78,14 @@
       margin-right: 16px;
   }
 }
+.places__artist {
+  color: #FFF;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.2;
+  margin: 0;
+}
 
 .places__place {
   margin: 0;
@@ -136,6 +144,11 @@
 .places__image {
   width: 460px;
   height: 460px;
+  box-shadow: 10px 10px 25px 0px rgba(0, 0, 0, 0.5);
+}
+
+.places__image:hover {
+  filter: brightness(50%);
 }
 
 /* Media query de tablets */
@@ -192,7 +205,7 @@
 
 .places__buy-link-button {
   border-radius: 4px;
-  background: #0278FE;
+  background: linear-gradient(90deg, #0278FE 0%, #003A7B 99.98%);
   color: #FFF;
   font-size: 18px;
   font-style: normal;
@@ -206,7 +219,7 @@
 }
 
 .places__buy-link-button:hover{
-  background: #0063D2;
+  background: linear-gradient(90deg, rgba(2, 120, 254, 0.25) 0%, rgba(0, 58, 123, 0.25) 99.98%);
 }
 
 /* Media query de tablets */
