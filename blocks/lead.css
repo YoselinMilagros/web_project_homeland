@@ -73,6 +73,7 @@
   width: 984px;
   height: 615px;
   margin: 0;
+  box-shadow: 10px 10px 25px 0px rgba(0, 0, 0, 0.5);
 }
 
 .lead__image::before {
