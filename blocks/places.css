@@ -205,7 +205,7 @@
 
 .places__buy-link-button {
   border-radius: 4px;
-  background: linear-gradient(90deg, #0278fe40 0%, #003a7b40 99.98%);
+  background: linear-gradient(90deg, rgb(2, 120, 254) 0%, rgb(0, 58, 123) 99.98%);
   box-shadow: 5px 5px 10px #00000040;
   color: #FFF;
   font-size: 18px;
